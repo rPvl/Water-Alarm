@@ -1,4 +1,4 @@
-# Water-Alarm
+# Water-Timer
 물 마셔! 타이머 (3-2 임베디드소프트웨어 자유 프로젝트)
 
 [제작배경]
@@ -15,7 +15,10 @@
 
 ![image](https://user-images.githubusercontent.com/108613930/219584489-da7cbd2e-5ff2-4b9b-aae2-0897e1c6e6ef.png)
 
+
 시연 영상>>https://youtube.com/shorts/lPAqGdbtgkg?feature=share<<
+
+시연 영상에서는 분 단위가 아닌 초단위로 설정하였으며, 크리스마스가 가다오는 시즌에 만들어서 부저 소리는 '징글벨'로 하였다. 
 
 ![image](https://user-images.githubusercontent.com/108613930/219584609-3af8244a-2a88-45b7-9736-5ac7164af5e5.png)
 
